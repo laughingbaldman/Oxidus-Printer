@@ -3,7 +3,7 @@
 Oxidus Print is a modular Streamlit app for planning a custom 3D printer build.
 
 Built by PartonDemand.
-PartonDemand is run by Jonathon Ward and Russile Schlack.
+PartonDemand is run by Jonathon Ward and Russell Schlack.
 
 Inspired by Magpie and SpiteDriven:
 - https://github.com/magpie-printer/magpie
